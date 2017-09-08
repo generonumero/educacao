@@ -12,3 +12,6 @@ build/*
 dist/*
 reg_settings.py
 .DS_Store
+data/*
+output/database/*
+output/aggregated/*.sqlite
